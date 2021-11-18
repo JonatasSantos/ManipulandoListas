@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\bin\Debug\net5.0\Listas.exe
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\bin\Debug\net5.0\Listas.deps.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\bin\Debug\net5.0\Listas.runtimeconfig.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\bin\Debug\net5.0\Listas.runtimeconfig.dev.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\bin\Debug\net5.0\Listas.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\bin\Debug\net5.0\ref\Listas.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\bin\Debug\net5.0\Listas.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\obj\Debug\net5.0\Listas.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\obj\Debug\net5.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\obj\Debug\net5.0\Listas.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\obj\Debug\net5.0\Listas.AssemblyInfo.cs
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\obj\Debug\net5.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\obj\Debug\net5.0\Listas.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\obj\Debug\net5.0\ref\Listas.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\obj\Debug\net5.0\Listas.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Listas\Listas\obj\Debug\net5.0\Listas.genruntimeconfig.cache
